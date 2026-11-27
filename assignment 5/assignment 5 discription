@@ -1,0 +1,1 @@
+writing a custom decorator function (for example, an output_decorator that formats/logs function inputs and return values) and applying it with @decorator_name to sample functions (such as add or multiply).
